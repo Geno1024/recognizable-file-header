@@ -108,4 +108,8 @@ You can recognize the correct extension name instead of a modified one of a file
 
 <a name="#z"/>
 ## Z
+ - zip
+   - Sign: `PK`
+   - Offset: 0
+   - MIME: `application/zip`
 
