@@ -78,6 +78,10 @@ You can recognize the correct extension name instead of a modified one of a file
 
 <a name="#p"/>
 ## P
+  - png
+    - Sign: `U+0089PNG`
+    - Offset: 0
+    - MIME: `image/png`
 
 <a name="#q"/>
 ## Q
@@ -108,8 +112,8 @@ You can recognize the correct extension name instead of a modified one of a file
 
 <a name="#z"/>
 ## Z
- - zip
-   - Sign: `PK`
-   - Offset: 0
-   - MIME: `application/zip`
+  - zip
+    - Sign: `PK`
+    - Offset: 0
+    - MIME: `application/zip`
 
