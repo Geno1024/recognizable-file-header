@@ -1,9 +1,10 @@
-# Reconizable File Header
+# Recognizable File Header
 
 A list of magic numbers for file headers.
-You can recognize the correct extension name instead of a modified one of a file, with this document.
+You can recognize the correct extension name instead of a modified one of a file, with this document, by the human readable characters.
 
 ## Index (Sort by extensions)
+- [ASCII Text](#ASCII)
 - [A](#a)
 - [B](#b)
 - [C](#c)
@@ -30,6 +31,11 @@ You can recognize the correct extension name instead of a modified one of a file
 - [X](#x)
 - [Y](#y)
 - [Z](#z)
+
+<a name="#ASCII"/>
+## ASCII Text
+  - txt
+    - MIME: `text/plain`
 
 <a name="#a"/>
 ## A
